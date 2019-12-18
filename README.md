@@ -1,4 +1,4 @@
-# Subu-CS567
+# SOFTWARE TESTING OF AN AR HOLOLENS APPLICATION USED TO REPAIR FAULTS IN A DEVICE
 
 Software Testing of an AR HoloLens Application used to repair faults in a device
 

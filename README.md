@@ -1,7 +1,5 @@
 # SOFTWARE TESTING OF AN AR HOLOLENS APPLICATION USED TO REPAIR FAULTS IN A DEVICE
 
-Software Testing of an AR HoloLens Application used to repair faults in a device
-
 Checkpoint 1: https://youtu.be/_5twQZlbrzI
 
 Checkpoint 2: https://youtu.be/8gLitXmu5cQ
